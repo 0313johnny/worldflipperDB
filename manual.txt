@@ -1,0 +1,5 @@
+網址前綴https://raw.githubusercontent.com/0313johnny/worldflipperDB/main/
+equip --> 裝備
+	0 --> 原始圖片
+	1 --> 魂珠
+		--> 編號 + (魂珠:_soul) + .png
